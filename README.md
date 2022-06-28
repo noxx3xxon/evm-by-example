@@ -18,7 +18,7 @@ export ETH_RPC_URL=https://eth-mainnet.alchemyapi.io/v2/[API_KEY]
 
 ## Structure
 
-This repository extracts sections of the [Geth codebase](https://github.com/ethereum/go-ethereum) so that they can be run in isolation. They are designed to be examples that improve our understanding of how the EVM is implemented in an Ethereum Client. The sub folders represent different areas of the EVM that have been isolated.
+This repository extracts sections of the [Geth codebase](https://github.com/ethereum/go-ethereum) so that they can be run in isolation with print statements to give context. They are designed to be examples that improve our understanding of how the EVM is implemented in an Ethereum Client. The sub folders represent different areas of the EVM that have been isolated.
 
 To run the code associated with a section
 
